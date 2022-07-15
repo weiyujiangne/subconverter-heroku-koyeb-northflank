@@ -14,4 +14,4 @@ forksubconverter-heroku项目
 
 部署到koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&name=subconver&ports=25500;http;/&image=jth445600/subconver:v1)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&name=subconver&ports=8080;http;/&image=jth445600/subconver:v1)
