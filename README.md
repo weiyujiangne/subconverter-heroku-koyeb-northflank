@@ -12,6 +12,6 @@ forksubconverter-heroku项目
 点击Actions->点击heroku->点击Run workflow
 部署后访问/version，如果出现subconverter v版本号 backend说明部署成功。
 
-部署到koyeb
+部署到koyeb(不可用)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&name=subconver&ports=8080;http;/&image=jth445600/subconver:v1)
