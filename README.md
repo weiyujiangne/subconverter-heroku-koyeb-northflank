@@ -2,6 +2,8 @@
 subconverter自动部署到heroku
 subconverter自动部署到heroku
 
+# 具体操作请见博客   https://blog.imkcp.xyz/subconverter/
+
 ## 部署到heroku
 subconverter-heroku：https://github.com/BlueHtml/subconverter-heroku
 
